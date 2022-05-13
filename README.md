@@ -2,7 +2,7 @@
 A collection of selected data science projects to demonstrate skill sets, knowledge, and what I find interesting.
 
 ## Contents
-* EDA (Exploratory Data Analysis)
+* EDA (Exploratory Data Analysis):
   * Data cleaning and preprocessing
   * Exploring data using the popular data visuzalization libraries (seaborn, matplotlib)
   * Use of dimensionality reduction techniques such as Principal Component Analysis (PCA)
