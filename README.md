@@ -3,12 +3,14 @@ A collection of selected data science projects to demonstrate skill sets, knowle
 
 ## Contents
 * EDA: Exploratory Data Analysis
-  * "Did Wordle get harder after it was purchased by the New York Times?"
-  * Use of dimensionality reduction techniques such as Principal Component Analysis (PCA)
-* Interactive Programs: Includes python programs that require user inputs.
+  *Data cleaning and preprocessing
+  *Exploring data using the popular data visuzalization libraries (seaborn, matplotlib)
+  *Use of dimensionality reduction techniques such as Principal Component Analysis (PCA)
+* Python: 
+  *Includes an user input interactive program to calculate the area of a shape
+* Machine Learning: 
+  *Multiple Linear Regression
 
 ## In Progress
 * Machine learning projects
-* Statistics based projects
 * SQL projects
-* t-SNE project
