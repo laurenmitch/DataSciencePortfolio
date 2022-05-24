@@ -17,3 +17,5 @@ A collection of selected data science projects to demonstrate skill sets, knowle
 ## In Progress
 * Machine learning projects
 * SQL projects
+* MIT Applied Data Science Program Capstone Project
+* MIT Applied Data Science Program guided projects
