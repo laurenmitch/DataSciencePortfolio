@@ -4,9 +4,9 @@ A collection of selected data science projects to demonstrate skill sets, knowle
 ## Contents
 
 * Capstone (BrainStation Data Science Bootcamp):
-  * Phase I: EDA, data cleaning and preprocessing
-  * NLP and modeling
-  * Organizing the output
+  * Phase 1: EDA, data cleaning and preprocessing
+  * Phase 2: NLP and modeling
+  * Phase 3: Organizing the output
 
 * EDA (Exploratory Data Analysis):
   * Data cleaning and preprocessing
