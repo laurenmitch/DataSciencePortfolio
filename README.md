@@ -4,7 +4,7 @@ A collection of selected data science projects to demonstrate skill sets, knowle
 ## Contents
 
 * Capstone (BrainStation Data Science Bootcamp):
-  * Classifying airbnb reviews into 10 categories of issues using natural language processing and semi-supervised learning.
+  * Classifying Airbnb reviews into 10 categories of issues using natural language processing and semi-supervised learning.
   * Phase 1: EDA, data cleaning and preprocessing
   * Phase 2: NLP and modeling
   * Phase 3: Organizing the output
@@ -15,11 +15,12 @@ A collection of selected data science projects to demonstrate skill sets, knowle
   * Use of dimensionality reduction techniques such as Principal Component Analysis (PCA)
  
 * Machine Learning: 
-  * Multiple Linear Regression
+  * Covid Price Prediction Using Time Series Analysis Methods
+  * Diamond Price Prediction using Multiple Linear Regression
+  * Water Potability Prediction using Random Forrest
 
-* Python: 
+* Python Program: 
   * Includes an user input interactive program to calculate the area of a shape
-
 
 ## In Progress
 * Machine learning projects
